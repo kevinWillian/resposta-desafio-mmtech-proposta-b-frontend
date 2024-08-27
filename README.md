@@ -10,7 +10,7 @@ Para rodar o FrontEnd clone o reposotório e com npm installado rode `npm instal
 
  Após adicionar mais de um itinerário você pode alterar a ordem deles indo em "Editar" e alterando o campo que determina sua posição na lista.
 
- Para ver um vídeo demonstrando o funcionamento baixe o arquivo: [https://github.com/kevinWillian/travels-frontend-reactjs/blob/master/docs/screen-capture.webm](https://github.com/kevinWillian/resposta-desafio-mmtech-proposta-b-frontend/blob/master/docs/demo.webm) e o reproduza em seu sistema operacional
+ Para ver um vídeo demonstrando o funcionamento baixe o arquivo: https://github.com/kevinWillian/resposta-desafio-mmtech-proposta-b-frontend/blob/master/docs/demo.webm e o reproduza em seu sistema operacional
 
  ### Considerações
 
