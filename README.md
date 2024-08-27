@@ -3,7 +3,7 @@ Essa é minha resposta FrontEnd para o proposto B do desafio tech da MMTech
 
 ## Intalação
 
-Para rodar o FrontEnd clone o reposotório e com npm installado rode `npm start` na pasta raiz do projeto
+Para rodar o FrontEnd clone o reposotório e com npm installado rode `npm install` e em seguida `npm start` na pasta raiz do projeto
 
 ## Uso
  Adicione sua viagem, após ter uma viagem adicionada vá em "detalhes" para ver os itinerários dela. Para adicionar um itinerário vá em "Adicionar itinerário" e coloque o nome da cidade que você quer visitar no seguinte formato "Cidade, UF, Brasil" e parametrize o tempo que estadiará nesta cidade.
