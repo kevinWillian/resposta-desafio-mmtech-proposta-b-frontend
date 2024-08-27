@@ -67,6 +67,7 @@ function EditItinerary() {
         editItinerary.stay = totalms;
 
         editItinerary._id = _id;
+        editItinerary.travel_id = travel_id;
 
         if (editAddress.current.value) {
             editItinerary.address = editAddress.current.value;
