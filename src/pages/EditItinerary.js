@@ -76,8 +76,6 @@ function EditItinerary() {
             editItinerary.position = Number(editPosition.current.value);
         }
 
-        console.log(editItinerary);
-
         api.put("/itne/update", editItinerary).then(async (res) => {
 
             await api.get("/calc/startcalc?travel_id=" + travel_id);
