@@ -1,4 +1,4 @@
-# travels-frontend-reactjs
+# resposta-desafio-mmtech-proposta-a-frontend
 Essa é minha resposta FrontEnd para o proposto B do desafio tech da MMTech
 
 ## Intalação
